@@ -119,7 +119,7 @@ footer{
 }
 
 article > aside{
-    background-color: rgba(161, 161, 161, 0.671);
+    background-image: linear-gradient(to right, rgba(161, 161, 161, 0.671), transparent);
     margin: 10px 3px ;
     width: auto;
     padding:0px 0px 0px 10px ;
